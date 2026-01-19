@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Human-Centric, Lock-Governed Cyber–AI Architecture"
+author:
+  - family-names: Sarwade
+    given-names: Aditya
+doi: 10.5281/zenodo.18290654
+repository-code: https://github.com/adityasarwade700/human-centric-cyber-ai-architecture
+license: CC-BY-4.0
