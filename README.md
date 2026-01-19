@@ -3,7 +3,7 @@
 **Author:** Aditya Sarwade  
 **Role:** Independent Researcher  
 **Zenodo DOI:** https://doi.org/10.5281/zenodo.18290654  
-**ORCID:** https://orcid.org/ (add your ORCID after email verification)
+https://orcid.org/0009-0009-5658-7799
 
 ---
 
